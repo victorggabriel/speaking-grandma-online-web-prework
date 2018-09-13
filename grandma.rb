@@ -3,6 +3,9 @@ def speak_to_grandma(phrase)
 
 if(phrase.upcase) 
   puts "I LOVE YOU TO PUMPKIN!"
+  
+end
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
