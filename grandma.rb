@@ -3,7 +3,8 @@ def speak_to_grandma(phrase)
 
 if phrase.upcase = "I LOVE YOU GRANDMA!"
     "I LOVE YOU TO PUMPKIN!"
-elsif phrase.upcase = "Hi Nana, how are you?"  
+elsif phrase.upcase = phrase
+  
 end
 end
 
